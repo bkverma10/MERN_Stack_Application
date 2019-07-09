@@ -1,3 +1,6 @@
+This project is about to explore and learn MERN Stack, implemented from the help of freecodecamp video tutorial.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
